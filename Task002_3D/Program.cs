@@ -50,7 +50,7 @@ class Program
         Console.WriteLine();
 
         // вывод результата
-        Console.WriteLine("A ({0},{1},{2}); B ({3},{4},{5}) → {6:f2}",
+        Console.WriteLine("A ({0}, {1}, {2}); B ({3}, {4}, {5}) → {6:f2}",
             ax, ay, az, bx, by, bz, distance);
     }
 }
